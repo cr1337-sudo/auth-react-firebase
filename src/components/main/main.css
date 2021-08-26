@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: #FDF6F0;
+}
+
+.main__input {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.main__inputForm {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input_main {
+  flex: 0.9;
+}
